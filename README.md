@@ -11,12 +11,20 @@ Aplikacija sadrži i klasičan web servis, u fajlu DokumentacijaITEHProjekat.doc
 
 Neke od slika aplikacije : 
 ![alt tag](ProjekatITEH/1.png)
+
 ![alt tag](ProjekatITEH/3.png)
+
 ![alt tag](ProjekatITEH/4.png)
+
 ![alt tag](ProjekatITEH/5.png)
+
 ![alt tag](6.png)
+
 ![alt tag](7.png)
+
 ![alt tag](8.png)
+
 ![alt tag](9.png)
+
 ![alt tag](ProjekatITEH/2.png)
 
