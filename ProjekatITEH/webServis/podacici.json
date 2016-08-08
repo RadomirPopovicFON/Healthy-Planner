@@ -1,0 +1,18 @@
+[
+  {
+    "id":"1",
+    "description":"deskripcija",
+    "webpage":"sdfsf",
+    "longitude":"20.4681",
+    "latitude":"44.8186",
+    "tipID":"1"
+  },
+  {
+    "id":"3",
+    "description":"Deskripcija",
+    "webpage":"www.tasmajdanskiBazen.com",
+    "longitude":"20.4732",
+    "latitude":"44.809",
+    "tipID":"2"
+  }
+]

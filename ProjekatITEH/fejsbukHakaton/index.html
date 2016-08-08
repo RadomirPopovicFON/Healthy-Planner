@@ -1,0 +1,35 @@
+<html>
+<head>
+<script src="jquery-2.1.1.min.js"></script>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1667079090224474',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+</head>
+<body>
+  <div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
+
+ <div> 
+    <object type="text/html" data="http://localhost:8888/prvifolder/domaci2ITEH/primerSajsonom.html" width="800px" height="600px" style="overflow:auto;">
+    </object></div>
+
+</body>
+</html>
