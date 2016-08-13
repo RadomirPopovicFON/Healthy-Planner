@@ -9,7 +9,7 @@ Aplikacija sadrži i klasičan web servis, u fajlu DokumentacijaITEHProjekat.doc
 
 *Napomena - za korišćenje potrebno je promeniti parametre pristupa bazi
 
-Neke od slika aplikacije : 
+Neke od slika aplikacije : <br/>
 ![alt tag](ProjekatITEH/1.png)
 
 ![alt tag](ProjekatITEH/3.png)
