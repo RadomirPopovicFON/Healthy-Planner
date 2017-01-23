@@ -1,15 +1,15 @@
 # Healthy-Planner
-Web aplikacija uz pomoć koje korisnici mogu da uz pomoć kalendara upisuju/planiraju svoje aktivnosti, kao i da se informišu više o sportskim ustanovama u Beogradu.
+Web application which provides several functionalities to end users such as: Using calendar for organizing their activities, and also to inform theirselves about sport institutions that provide all kinds of activities in Belgrade, Serbia (gyms, pools, parks).
 
-U odnosu na lokaciju korisnika, automatski se generišu 3 najbrže rute do nabliže teretane/parka/bazena.
+Based on location of an end user, 3 fastest routes are being auto generated to the closest gym, park or pool.
 
-Aplikacija sadrži i deo za administratora, koji sa 4 crud komande može upravljati bazom
+Application has a back end part also for the administrator, who can use 4 CRUD commands for manipulating database. 
 
-Aplikacija sadrži i klasičan web servis, u fajlu DokumentacijaITEHProjekat.docx se nalazi spisak svih mogućih poziva sa instrukcijama(Rezultat se vraća u JSON formatu)
+Application also containts implements web service. A detailed instruction (in Serbian) is written in file DokumentacijaITEHProjekat.docx. Result is being returned in JSON format
 
-*Napomena - za korišćenje potrebno je promeniti parametre pristupa bazi
+*Note - for using this app, database parameters needs to be changed. 
 
-Neke od slika aplikacije : <br/>
+Screenshots of the application : <br/>
 ![alt tag](ProjekatITEH/1.png)
 
 ![alt tag](ProjekatITEH/3.png)
